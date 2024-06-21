@@ -18,6 +18,4 @@ public class Exercise {
     public int getScore() {
         return 0;
     }
-
-
 }
